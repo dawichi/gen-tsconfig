@@ -1,6 +1,6 @@
 {
   "name": "gen-tsconfig",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate tsconfig.json file optimized for your project",
   "main": "src/index.js",
   "bin": {
