@@ -4,7 +4,7 @@
   "description": "Generate tsconfig.json file optimized for your project",
   "main": "src/index.js",
   "bin": {
-    "gen-tsconfig": "src/index.js"
+    "gen-tsconfig": "node src/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
